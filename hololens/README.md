@@ -1,4 +1,4 @@
-# HoloLens
+# HoloLens Client
 
 This client is only intended to work with
 [Gabriel-Sandwich](/cmusatyalab/gabriel-sandwich). It might work other
